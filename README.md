@@ -26,7 +26,7 @@
 <br>
 💡 Apaixonado por usar tecnologia para resolver problemas do mundo real, seja construindo apps nativos robustos ou liderando projetos "Data for Good" como voluntário na **DataKind**.
 <br>
-🚀 Minha jornada diversa passa por **Sistemas de Baixo Nível** (C, C++, Rust, Go na **Mozilla**), **Desenvolvimento Full Stack** (React, Laravel, NestJS) e **Engenharia de IA** (CrewAI, LlamaIndex, n8n).
+🚀 Minha jornada diversa passa por **Sistemas de Baixo Nível** (C, C++, Rust, Go), **Desenvolvimento Full Stack** (React, Laravel, NestJS), **Engenharia de IA** (CrewAI, LlamaIndex, n8n, Python) e **Desenvolvimento Moblie** (React Native, Flutter, Kotlin, Java).
 
 <br>
 
@@ -69,7 +69,7 @@
 </p>
 
 <p align="left">
-  <b>🔧 Programação de Sistemas & Low-Level (Mozilla)</b>
+  <b>🔧 Programação de Sistemas & Low-Level</b>
   <br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
@@ -108,4 +108,5 @@
 
 <p align="center">
   <img src="https://github.com/RicardoFiorini/RicardoFiorini/blob/output/github-contribution-grid-snake.svg" alt="Animação de Contribuição Snake">
+
 </p>
