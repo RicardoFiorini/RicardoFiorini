@@ -77,36 +77,4 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 </p>
 
----
 
-## 📊 Minhas Estatísticas no GitHub
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/RicardoFiorini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoFiorini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Ricardo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoFiorini&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas pelo Ricardo">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoFiorini&theme=dracula&hide_border=false" alt="Sequência de Commits do GitHub">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RicardoFiorini">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RicardoFiorini&theme=dracula&bg_color=191919&color=e9e9e9&line=82aaff&point=a6acff&area=true&hide_border=true" alt="Gráfico de Atividades do GitHub">
-  </a>
-</p>
-
----
-
-## 🐍 Minhas Contribuições
-
-<p align="center">
-  <img src="https://github.com/RicardoFiorini/RicardoFiorini/blob/output/github-contribution-grid-snake.svg" alt="Animação de Contribuição Snake">
-
-</p>
