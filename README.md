@@ -1,5 +1,5 @@
 <h1>
-  Olá! Eu sou o Ricardo (Rick) Fiorini
+  Olá! Eu sou o Ricardo Fiorini
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
